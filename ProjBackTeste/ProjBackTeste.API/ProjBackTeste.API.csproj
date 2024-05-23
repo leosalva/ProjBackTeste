@@ -12,6 +12,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\ProjBackTeste.Application\ProjBackTeste.Application.csproj" />
+    <ProjectReference Include="..\ProjBackTeste.Data\ProjBackTeste.Data.csproj" />
     <ProjectReference Include="..\ProjBackTeste.IoC\ProjBackTeste.IoC.csproj" />
   </ItemGroup>
 
